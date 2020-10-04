@@ -9,8 +9,14 @@ ddd
 my second update(*):
 eee
 
+<<<<<<< HEAD
 my first update on branch update1:
 updating...
 
 my second update onbranch update1:
 updating...
+=======
+
+before merge：
+远程修改文件
+>>>>>>> 637615734480a647400511ebb8a4dbea4c484edb
