@@ -14,3 +14,11 @@ updating...
 
 my second update onbranch update1:
 updating...
+
+before merge：
+远程修改文件
+
+
+my first update on branch update2:
+updating ...
+  
