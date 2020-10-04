@@ -8,3 +8,9 @@ ddd
 
 my second update(*):
 eee
+
+my first update on branch update1:
+updating...
+
+my second update onbranch update1:
+updating...
