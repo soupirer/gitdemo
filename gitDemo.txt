@@ -15,8 +15,19 @@ updating...
 
 my second update onbranch update1:
 updating...
+<<<<<<< HEAD
 =======
 
 before merge：
 远程修改文件
 >>>>>>> 637615734480a647400511ebb8a4dbea4c484edb
+=======
+
+before merge：
+远程修改文件
+
+
+my first update on branch update2:
+updating ...
+  
+>>>>>>> update2
